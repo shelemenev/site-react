@@ -1,0 +1,1 @@
+export {InfoAbout} from './InfoAbout'
