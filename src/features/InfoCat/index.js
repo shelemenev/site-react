@@ -1,0 +1,1 @@
+export {InfoCat} from './InfoCat'

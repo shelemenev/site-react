@@ -1,0 +1,1 @@
+export {FooterCat} from './FooterCat'
