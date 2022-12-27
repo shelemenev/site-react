@@ -1,0 +1,1 @@
+export {FooterDog} from './FooterDog'

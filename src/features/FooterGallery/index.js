@@ -1,0 +1,1 @@
+export {FooterGallery} from './FooterGallery'

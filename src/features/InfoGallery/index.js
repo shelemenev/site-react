@@ -1,0 +1,1 @@
+export {InfoGallery} from './InfoGallery'
