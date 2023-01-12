@@ -1,0 +1,1 @@
+export {InfoPlaces} from './InfoPlaces'

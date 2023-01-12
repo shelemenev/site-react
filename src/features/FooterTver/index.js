@@ -1,0 +1,1 @@
+export {FooterTver} from './FooterTver'

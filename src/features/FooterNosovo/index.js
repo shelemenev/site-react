@@ -1,0 +1,1 @@
+export {FooterNosovo} from './FooterNosovo'

@@ -1,0 +1,1 @@
+export {FooterPlaces} from './FooterPlaces'

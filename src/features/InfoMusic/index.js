@@ -1,0 +1,1 @@
+export {InfoMusic} from './InfoMusic'

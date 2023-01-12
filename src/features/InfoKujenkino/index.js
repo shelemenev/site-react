@@ -1,0 +1,1 @@
+export {InfoKujenkino} from './InfoKujenkino'

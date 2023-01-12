@@ -1,0 +1,1 @@
+export {InfoMoscow} from './InfoMoscow'
