@@ -1,0 +1,1 @@
+export {HeaderResume} from './HeaderResume'

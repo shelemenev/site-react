@@ -1,0 +1,1 @@
+export {InfoVideo} from './InfoVideo'

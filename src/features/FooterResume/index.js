@@ -1,0 +1,1 @@
+export {FooterResume} from './FooterResume'

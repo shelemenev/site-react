@@ -11,6 +11,8 @@ import {Nosovo} from '../pages/Nosovo'
 import {Tver} from '../pages/Tver'
 import {Moscow} from '../pages/Moscow'
 import {Music} from '../pages/Music'
+import {Video} from '../pages/Video'
+import {Resume} from '../pages/Resume'
 import {Route, Routes, BrowserRouter} from 'react-router-dom'
 
 function App() {
@@ -29,6 +31,8 @@ function App() {
           <Route path="tver.html" element={<Tver />} />
           <Route path="moscow.html" element={<Moscow />} />
           <Route path="music.html" element={<Music />} />
+          <Route path="video.html" element={<Video />} />
+          <Route path="resume.html" element={<Resume />} />
           <Route path="*" element={<Main />} />
       </Routes>
     </BrowserRouter>

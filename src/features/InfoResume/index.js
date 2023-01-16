@@ -1,0 +1,1 @@
+export {InfoResume} from './InfoResume'
