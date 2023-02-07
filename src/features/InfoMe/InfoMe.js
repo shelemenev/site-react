@@ -200,6 +200,7 @@ function InfoMe() {
           </div>
         </div>
       </div>
+      <Picture />
     </>
   )
 }

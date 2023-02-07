@@ -1,5 +1,16 @@
 function HeaderAbout() {
 
+function menuFunction() {
+  const x = document.querySelector('.menu_mobile')
+
+  if (x === null || x === undefined) {
+    return
+  }
+
+  const isFlex = x.style.display == 'flex'
+  x.style.display = isFlex ? 'none' : 'flex'
+}
+
   return (
     <>
 	    <div className="category_mobile menu_button end_2 hidden">///</div>

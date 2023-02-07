@@ -1,3 +1,5 @@
+import {Scroll} from '../Scroll'
+
 function FooterMe() {
 
   return (
@@ -9,6 +11,7 @@ function FooterMe() {
 		  <div className="row kick space-between hidden_mobile">
 		    <div className="category big"><a className='color' href='gallery.html'>Назад</a></div>
 		    <div className="category goup big"><img className='up' src="images/pic11.svg" /></div>
+		    <Scroll />
 		  </div>
     </>
   )

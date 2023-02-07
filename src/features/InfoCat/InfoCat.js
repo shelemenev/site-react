@@ -4,6 +4,7 @@ function InfoCat() {
 
   return (
     <>
+      <Picture />
       <h2>Кот</h2>
       <img className="background" src="images/background1.jpeg" />
     	<div className="content hidden_mobile">

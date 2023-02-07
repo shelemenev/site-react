@@ -3,17 +3,17 @@ function InfoMusic() {
   return (
     <>
       <img className="background" src="images/background1.jpeg" />
-      <div class="resume list"><b>Аудиотека</b></div>
+      <div className="resume list"><b>Аудиотека</b></div>
       <table>
         <tr>
-          <td class="high">№</td>
-          <td class="high">Исполнитель</td>
-          <td class="high">Название альбома</td>
-          <td class="high">Год</td>
-          <td class="high">Формат</td>
-          <td class="high">Сжатие</td>
-          <td class="high">Жанр</td>
-          <td class="high right">Примечание</td>
+          <td className="high">№</td>
+          <td className="high">Исполнитель</td>
+          <td className="high">Название альбома</td>
+          <td className="high">Год</td>
+          <td className="high">Формат</td>
+          <td className="high">Сжатие</td>
+          <td className="high">Жанр</td>
+          <td className="high right">Примечание</td>
         </tr>
         <tr>
           <td>1</td>
@@ -23,7 +23,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Rock<br />Rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>2</td>
@@ -33,7 +33,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>3</td>
@@ -43,7 +43,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>4</td>
@@ -53,7 +53,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>5</td>
@@ -63,7 +63,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard'n'heavy</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>6</td>
@@ -73,7 +73,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Hard'n'heavy</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>7</td>
@@ -83,7 +83,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Progressive metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>8</td>
@@ -93,7 +93,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Progressive metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>9</td>
@@ -103,7 +103,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Progressive metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>10</td>
@@ -113,7 +113,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>11</td>
@@ -123,7 +123,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Heavy metal<br />Heavy metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>12</td>
@@ -133,7 +133,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>13</td>
@@ -143,7 +143,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>14</td>
@@ -153,7 +153,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>15</td>
@@ -163,7 +163,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>16</td>
@@ -173,7 +173,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>17</td>
@@ -183,7 +183,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Thrash/heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>18</td>
@@ -193,7 +193,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Thrash/heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>19</td>
@@ -203,7 +203,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>20</td>
@@ -213,7 +213,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Heavy metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>21</td>
@@ -223,7 +223,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>22</td>
@@ -233,7 +233,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Progressive rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>23</td>
@@ -243,7 +243,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>24</td>
@@ -253,7 +253,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>25</td>
@@ -263,7 +263,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>26</td>
@@ -273,7 +273,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>128</td>
           <td>Rock'n'roll</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>27</td>
@@ -283,7 +283,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>128</td>
           <td>Rock'n'roll</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>28</td>
@@ -293,7 +293,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>128</td>
           <td>Rock'n'roll</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>29</td>
@@ -303,7 +303,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>30</td>
@@ -313,7 +313,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>31</td>
@@ -323,7 +323,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Dark wave</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>32</td>
@@ -333,7 +333,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>33</td>
@@ -343,7 +343,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Progressive rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>34</td>
@@ -353,7 +353,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Sympho death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>35</td>
@@ -363,7 +363,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Sympho metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>36</td>
@@ -373,7 +373,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>37</td>
@@ -383,7 +383,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>38</td>
@@ -393,7 +393,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom gothic metal<br />Doom gothic metal<br />Doom gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>39</td>
@@ -403,7 +403,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>40</td>
@@ -413,7 +413,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>41</td>
@@ -423,7 +423,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom metal, progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>42</td>
@@ -433,7 +433,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Progressive rock<br />Progressive rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>43</td>
@@ -443,7 +443,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>44</td>
@@ -453,7 +453,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>45</td>
@@ -463,7 +463,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>46</td>
@@ -473,7 +473,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Trash black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>47</td>
@@ -483,7 +483,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Trash black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>48</td>
@@ -493,7 +493,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Sympho black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>49</td>
@@ -503,7 +503,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Sympho black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>50</td>
@@ -513,7 +513,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Sympho black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>51</td>
@@ -523,7 +523,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Sympho black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>52</td>
@@ -543,7 +543,7 @@ function InfoMusic() {
             Black metal<br />Trash metal<br />Death metal<br />Death metal<br />
             Progressive death metal<br />Death metal<br />Trash metal<br />Nu metal<br />
             Trash/black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>53</td>
@@ -553,7 +553,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>54</td>
@@ -563,7 +563,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>55</td>
@@ -573,7 +573,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>56</td>
@@ -583,7 +583,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>57</td>
@@ -593,7 +593,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Doom gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>59</td>
@@ -603,7 +603,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Rhythm and blues<br />Rhythm and blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>60</td>
@@ -613,7 +613,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Rhythm and blues<br />Rhythm and blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>61</td>
@@ -623,7 +623,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Rhythm and blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>62</td>
@@ -633,7 +633,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Rhythm and blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>63</td>
@@ -643,7 +643,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Rock opera</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>64</td>
@@ -653,7 +653,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>65</td>
@@ -663,7 +663,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>66</td>
@@ -673,7 +673,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>67</td>
@@ -683,7 +683,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>68</td>
@@ -693,7 +693,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>69</td>
@@ -703,7 +703,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>70</td>
@@ -713,7 +713,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Hard rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>71</td>
@@ -723,7 +723,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Hard rock<br />Rhythm and blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>72</td>
@@ -733,7 +733,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Rock<br />Rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>73</td>
@@ -743,7 +743,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Rock<br />Rock<br />Rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>74</td>
@@ -753,7 +753,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>75</td>
@@ -763,7 +763,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192-320</td>
           <td>Hard rock<br />Glam rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>76</td>
@@ -773,7 +773,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>77</td>
@@ -783,7 +783,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>78</td>
@@ -793,7 +793,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>79</td>
@@ -803,7 +803,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>80</td>
@@ -813,7 +813,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Blues rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>81</td>
@@ -823,7 +823,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Blues rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>82</td>
@@ -833,7 +833,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>83</td>
@@ -843,7 +843,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>84</td>
@@ -853,7 +853,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>85</td>
@@ -863,7 +863,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>86</td>
@@ -873,7 +873,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>87</td>
@@ -883,7 +883,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>88</td>
@@ -893,7 +893,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>New wave<br />Heavy metal<br />Hard rock<br />Avangarde</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>89</td>
@@ -903,7 +903,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>256</td>
           <td>Post punk/gothic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>90</td>
@@ -913,7 +913,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>256</td>
           <td>Post punk/gothic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>91</td>
@@ -923,7 +923,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Heavy metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>92</td>
@@ -933,7 +933,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>New wave</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>93</td>
@@ -943,7 +943,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>94</td>
@@ -953,7 +953,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>95</td>
@@ -963,7 +963,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>96</td>
@@ -973,7 +973,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>160-192</td>
           <td>Progressive metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>97</td>
@@ -983,7 +983,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>160-192</td>
           <td>Progressive metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>98</td>
@@ -993,7 +993,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>99</td>
@@ -1003,7 +1003,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>100</td>
@@ -1013,7 +1013,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>101</td>
@@ -1023,7 +1023,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Hard rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>102</td>
@@ -1033,7 +1033,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>103</td>
@@ -1043,7 +1043,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Trash/power metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>104</td>
@@ -1053,7 +1053,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>105</td>
@@ -1063,7 +1063,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>106</td>
@@ -1073,7 +1073,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Heavy metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>107</td>
@@ -1083,7 +1083,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>108</td>
@@ -1093,7 +1093,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>109</td>
@@ -1103,7 +1103,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>110</td>
@@ -1113,7 +1113,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>111</td>
@@ -1123,7 +1123,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>112</td>
@@ -1133,7 +1133,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Trash metal, nu metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>113</td>
@@ -1143,7 +1143,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Melodic death metal<br />Nu metal<br />Nu metal<br />Groove metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>114</td>
@@ -1153,7 +1153,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Sympho black metal<br />Nu-metal<br />Nu-metal<br />Melodic death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>115</td>
@@ -1163,7 +1163,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Melodic death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>116</td>
@@ -1173,7 +1173,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Melodic death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>117</td>
@@ -1183,7 +1183,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Melodic death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>118</td>
@@ -1193,7 +1193,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Melodic death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>119</td>
@@ -1203,7 +1203,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Sympho metal<br />Melodic death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>120</td>
@@ -1213,7 +1213,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Doom death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>121</td>
@@ -1223,7 +1223,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>122</td>
@@ -1233,7 +1233,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>123</td>
@@ -1243,7 +1243,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>124</td>
@@ -1253,7 +1253,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Trash/doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>125</td>
@@ -1263,7 +1263,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>256</td>
           <td>Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>126</td>
@@ -1273,7 +1273,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>256</td>
           <td>Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>127</td>
@@ -1283,7 +1283,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>256</td>
           <td>Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>128</td>
@@ -1293,7 +1293,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Death metal<br />Melodic death metal<br />Grind/death metal<br />Death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>129</td>
@@ -1303,7 +1303,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>130</td>
@@ -1313,7 +1313,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Brutal death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>131</td>
@@ -1323,7 +1323,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>256</td>
           <td>Black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>132</td>
@@ -1333,7 +1333,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>256</td>
           <td>Black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>133</td>
@@ -1343,7 +1343,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Black/death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>134</td>
@@ -1353,7 +1353,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>135</td>
@@ -1366,7 +1366,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Black metal<br />Black metal<br />Black metal<br />
             Black metal<br />Black metal<br />Progressive black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>136</td>
@@ -1376,7 +1376,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Industrial</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>137</td>
@@ -1386,7 +1386,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Darkwave<br />Darkwave</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>138</td>
@@ -1396,7 +1396,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Heavy metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>139</td>
@@ -1406,7 +1406,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Trash metal<br />Punk rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>140</td>
@@ -1416,7 +1416,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>141</td>
@@ -1426,7 +1426,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Metal<br />Metal<br />Metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>142</td>
@@ -1436,7 +1436,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Russian rock, folk</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>143</td>
@@ -1446,7 +1446,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Russian rock, folk<br />Russian rock, folk</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>144</td>
@@ -1456,7 +1456,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Russian rock<br />Russian rock<br />Russian rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>145</td>
@@ -1466,7 +1466,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Russian rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>146</td>
@@ -1476,7 +1476,7 @@ function InfoMusic() {
           <td>FLAC</td>
           <td></td>
           <td>Russian rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>147</td>
@@ -1486,7 +1486,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Folk</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>148</td>
@@ -1496,7 +1496,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Folk rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>149</td>
@@ -1506,7 +1506,7 @@ function InfoMusic() {
           <td>CD</td>
           <td></td>
           <td>Acoustic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>150</td>
@@ -1516,17 +1516,17 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Folk</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>151</td>
-          <td>A collection of classic</td>
+          <td>A collection of classNameic</td>
           <td></td>
           <td>2005</td>
           <td>MP 3</td>
           <td>256</td>
-          <td>Classic</td>
-          <td class="right"></td>
+          <td>classNameic</td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>152</td>
@@ -1536,7 +1536,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192-256</td>
           <td>Pop</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>153</td>
@@ -1546,7 +1546,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192-256</td>
           <td>Pop</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>154</td>
@@ -1556,7 +1556,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Pop</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>155</td>
@@ -1566,7 +1566,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>156</td>
@@ -1576,7 +1576,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192-256</td>
           <td>Progressive rock<br />Psychodelic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>157</td>
@@ -1586,7 +1586,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>160</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>158</td>
@@ -1596,7 +1596,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>159</td>
@@ -1606,7 +1606,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>160</td>
@@ -1620,7 +1620,7 @@ function InfoMusic() {
           <td>Hard rock<br />Hard rock<br />New wave<br />Post punk/gothic rock<br />
             Progressive rock<br />Progressive rock<br />Heavy metal<br />Punk rock<br />
             Hard rock<br />Rhythm and blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>161</td>
@@ -1636,7 +1636,7 @@ function InfoMusic() {
           <td>Funeral doom metal<br />Progressive metal<br />Epic doom metal<br />Stoner metal<br />
             Heavy metal<br />Funk metal<br />Doom/death metal<br />Heavy metal<br />Progressive metal<br />
             Tribute<br />Heavy metal<br />Tribute<br />Stoner metal<br />Stoner metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>162</td>
@@ -1646,7 +1646,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>163</td>
@@ -1656,7 +1656,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Blues rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>164</td>
@@ -1666,7 +1666,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>165</td>
@@ -1676,7 +1676,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Progressive rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>166</td>
@@ -1686,7 +1686,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>167</td>
@@ -1696,7 +1696,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>168</td>
@@ -1706,7 +1706,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>169</td>
@@ -1716,7 +1716,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Blues rock<br />Progresive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>170</td>
@@ -1726,7 +1726,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Rhythm and blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>171</td>
@@ -1736,7 +1736,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Rock<br />Rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>172</td>
@@ -1746,7 +1746,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>173</td>
@@ -1756,7 +1756,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Rock<br />Rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>174</td>
@@ -1766,7 +1766,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>175</td>
@@ -1776,7 +1776,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Country rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>176</td>
@@ -1786,7 +1786,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock, blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>177</td>
@@ -1796,7 +1796,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Progresive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>178</td>
@@ -1806,7 +1806,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Rhythm and blues<br />Rhythm and blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>179</td>
@@ -1816,7 +1816,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>180</td>
@@ -1830,7 +1830,7 @@ function InfoMusic() {
           <td>Heavy metal<br />Hard rock<br />Progressive rock<br />Rock<br />Hard rock<br />Hard rock<br />Progressive rock<br />
               Progressive rock<br />Progressive rock<br />Hard rock<br />Rock<br />Heavy metal<br />Heavy metal<br />
               Heavy metal<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>181</td>
@@ -1840,7 +1840,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Hard rock<br />Progressive rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>182</td>
@@ -1850,7 +1850,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Hard rock<br />Hard rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>183</td>
@@ -1860,7 +1860,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>184</td>
@@ -1870,7 +1870,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Rhythm and blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>185</td>
@@ -1880,7 +1880,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Heavy metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>186</td>
@@ -1898,7 +1898,7 @@ function InfoMusic() {
             Punk rock<br />Hard rock/heavy metal<br />Progressive rock<br />Hard rock<br />
             Hard rock<br />Hard rock/heavy metal<br />Hard rock<br />Progressive rock<br />
             Doom metal<br />Rhythm and blues<br />Progressive rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>187</td>
@@ -1911,7 +1911,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Heavy metal<br />Heavy/trash metal<br />Trash metal<br />Power metal<br />
             Heavy metal<br />Trash metal<br />Trash metal<br />Heavy metal</td>
-          <td class="right">Saxon в формате *FLAC</td>
+          <td className="right">Saxon в формате *FLAC</td>
         </tr>
         <tr>
           <td>188</td>
@@ -1921,7 +1921,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Heavy/power metal<br />Gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>189</td>
@@ -1931,7 +1931,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Industrial<br />Trash metal</td>
-          <td class="right">Kreator<br />(live albums' 2003-2020)</td>
+          <td className="right">Kreator<br />(live albums' 2003-2020)</td>
         </tr>
         <tr>
           <td>190</td>
@@ -1941,7 +1941,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Power metal<br />Power metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>191</td>
@@ -1959,7 +1959,7 @@ function InfoMusic() {
               Melodic death metal<br />Heavy metal<br />Heavy metal<br />Trash metal<br />Gothic metal<br />
               Progressive metal<br />Trash metal<br />Progressive metal<br />Death metal<br />
               Industrial metal<br />Sympho death metal<br />Progressive metal<br />Sympho metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>192</td>
@@ -1969,7 +1969,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Punk rock<br />Heavy metal<br />Thrash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>193</td>
@@ -1979,7 +1979,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Hard rock<br />Hard rock<br />Hard rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>194</td>
@@ -1988,8 +1988,8 @@ function InfoMusic() {
           <td>1987-2011<br />1996-2000<br />1990-2009<br />1984-2012<br />1977-1979</td>
           <td>MP 3</td>
           <td>192-320</td>
-          <td>Hard rock<br />Neoclassic<br />Doom metal<br />Doom metal<br />Punk rock</td>
-          <td class="right"></td>
+          <td>Hard rock<br />NeoclassNameic<br />Doom metal<br />Doom metal<br />Punk rock</td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>195</td>
@@ -1999,7 +1999,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Heavy metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>196</td>
@@ -2012,7 +2012,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Progressive rock<br />Progressive metal<br />Hard'n'heavy<br />
             Hard'n'heavy<br />Hard rock<br />Progressive rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>197</td>
@@ -2022,7 +2022,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Thrash metal<br />Thrash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>198</td>
@@ -2032,7 +2032,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192-320</td>
           <td>Heavy/power metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>199</td>
@@ -2042,7 +2042,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Heavy metal<br />Punk rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>200</td>
@@ -2055,7 +2055,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Hard'n'heavy<br />Funk metal<br />Avangarde<br />Hard'n'heavy<br />
             Funk metal<br />Hard'n'heavy<br />Hard'n'heavy</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>201</td>
@@ -2065,7 +2065,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Speed/power metal<br />Punk rock<br />Punk rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>202</td>
@@ -2075,7 +2075,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Grunge</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>203</td>
@@ -2085,7 +2085,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Post punk/gothic rock<br />Post punk/gothic rock<br />Post punk/gothic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>204</td>
@@ -2095,7 +2095,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Post punk<br />Post punk<br />Post punk</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>205</td>
@@ -2105,7 +2105,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Post punk</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>206</td>
@@ -2115,7 +2115,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Gothic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>207</td>
@@ -2125,7 +2125,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Avangarde post punk<br />Gothic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>208</td>
@@ -2135,7 +2135,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Gothic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>210</td>
@@ -2145,7 +2145,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>256</td>
           <td>Epic doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>211</td>
@@ -2155,7 +2155,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>256</td>
           <td>Epic doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>212</td>
@@ -2169,7 +2169,7 @@ function InfoMusic() {
           <td>Gothic metal<br />Doom metal<br />Sympho death metal<br />
             Death doom metal<br />Doom metal<br />Sympho metal<br />
             Gothic metal<br />Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>213</td>
@@ -2179,7 +2179,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Gothic metal<br />Doom metal<br />Doom gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>214</td>
@@ -2194,7 +2194,7 @@ function InfoMusic() {
           <td>Gothic metal<br />Doom metal<br />Gothic doom metal<br />Doom metal<br />
             Stoner metal<br />Hard rock<br />Doom metal<br />Stoner metal<br />Doom metal<br />
             Hard rock<br />Gothic doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>215</td>
@@ -2204,7 +2204,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Gothic doom metal<br />Stoner rock<br />Gothic doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>216</td>
@@ -2214,7 +2214,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Hard rock/doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>217</td>
@@ -2224,7 +2224,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Doom metal<br />Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>218</td>
@@ -2234,7 +2234,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Trash metal<br />Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>219</td>
@@ -2244,7 +2244,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Heavy metal<br />Progressive metal<br />Heavy metal<br />Doom gothic metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>220</td>
@@ -2255,7 +2255,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Progressive black metal<br />Sympho black metal<br />
             Progressive death metal<br />Funeral doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>221</td>
@@ -2270,7 +2270,7 @@ function InfoMusic() {
           <td>Doom metal<br />Black/death metal<br />Black metal<br />Doom metal<br />
             Sympho black metal<br />Doom metal<br />Doom metal<br />Doom metal<br />
             Doom metal<br />Doom metal<br />Doom metal<br />Doom metal<br />Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>222</td>
@@ -2280,7 +2280,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Doom metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>223</td>
@@ -2290,7 +2290,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Gothic metal<br />Death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>224</td>
@@ -2300,7 +2300,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>128</td>
           <td>Nu-metal<br />Nu-metal<br />Nu-metal<br />Melodic death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>225</td>
@@ -2310,7 +2310,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192-320</td>
           <td>Gothic rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>226</td>
@@ -2321,7 +2321,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Black metal<br />Progressive thrash metal<br />Melodic black metal<br />
               Progressive death metal<br />Progressive thrash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>227</td>
@@ -2335,7 +2335,7 @@ function InfoMusic() {
           <td>Black metal<br />Black metal<br />Progressive black metal<br />Avangarde death metal<br />
               Progressive black metal<br />Industrial<br />Gothic metal<br />Black metal<br />Thrash metal<br />
               Black metal<br />Dark metal<br />Black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>228</td>
@@ -2345,7 +2345,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192-320</td>
           <td>Progressive metal<br />Metal<br />Progressive metal<br />Progressive metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>229</td>
@@ -2356,7 +2356,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Trash metal<br />Trash metal<br />Trash metal<br />
             Progressive trash metal<br />Death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>230</td>
@@ -2366,7 +2366,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Trash metal<br />Trash metal<br />Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>231</td>
@@ -2379,7 +2379,7 @@ function InfoMusic() {
           <td>192-320</td>
           <td>Trash metal<br />Death metal<br />Trash metal<br />Death metal<br />
             Death metal<br />Trash metal<br />Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>232</td>
@@ -2389,7 +2389,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192-320</td>
           <td>Progressive trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>233</td>
@@ -2399,7 +2399,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192-320</td>
           <td>Progressive trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>234</td>
@@ -2409,7 +2409,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Sympho metal<br />Progressive metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>235</td>
@@ -2419,7 +2419,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Heavy metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>236</td>
@@ -2432,7 +2432,7 @@ function InfoMusic() {
           <td>160-320</td>
           <td>Groove metal<br />Groove metal<br />Progressive death metal<br />
             Industrial<br />Heavy metal<br />Groove metal<br />Nu-metal<br />Groove metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>237</td>
@@ -2442,7 +2442,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>128-192</td>
           <td>Melodic death metal<br />Power metal<br />Doom metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>238</td>
@@ -2452,7 +2452,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive trash metal<br />Progressive metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>239</td>
@@ -2462,7 +2462,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Trash metal<br />Trash metal<br />Progressive metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>240</td>
@@ -2472,7 +2472,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Death/grind metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>241</td>
@@ -2483,7 +2483,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Progressive/death metal<br />Progressive/death metal<br />Progressive/death metal<br />
             Progressive/death metal<br />Death metal<br />Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>242</td>
@@ -2493,7 +2493,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Power/groove metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>243</td>
@@ -2503,7 +2503,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>VBR</td>
           <td>Groove metal<br />Nu metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>244</td>
@@ -2513,7 +2513,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Trash metal<br />Trash metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>245</td>
@@ -2523,7 +2523,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Death/black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>246</td>
@@ -2534,7 +2534,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Ambient<br />Progressive death metal<br />Black metal<br />
             Groove metal<br />Black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>247</td>
@@ -2544,7 +2544,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>248</td>
@@ -2554,7 +2554,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Black metal<br />Black metal<br />Black metal<br />Black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>249</td>
@@ -2564,7 +2564,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Death metal<br />Groove metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>250</td>
@@ -2574,7 +2574,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>192</td>
           <td>Melodic death metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>251</td>
@@ -2584,7 +2584,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive black metal<br />Progressive black metal<br />Progressive black metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>252</td>
@@ -2594,7 +2594,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Folk</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>253</td>
@@ -2607,7 +2607,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Russian rock<br />Hard rock<br />Russian rock<br />Avangarde<br />Russian rock<br />
               Heavy metal<br />Russian rock<br />Russian rock<br />Russian rock<br />Avangarde<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>254</td>
@@ -2619,7 +2619,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Gothic folk<br />Heavy metal<br />Russian rock, folk<br />
             Russian rock<br />Heavy metal<br />Russian rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>255</td>
@@ -2633,7 +2633,7 @@ function InfoMusic() {
           <td>Hard rock<br />Heavy metal<br />Russian rock, folk<br />
             Russian rock<br />Russian rock<br />Punk/psychodelic rock<br />
             New wave<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>256</td>
@@ -2643,7 +2643,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Russian rock<br />Russian rock<br />Russian rock</td>
-          <td class="right">Bootlegs</td>
+          <td className="right">Bootlegs</td>
         </tr>
         <tr>
           <td>257</td>
@@ -2653,7 +2653,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock<br />Russian rock<br />Trash/heavy metal<br />Trash/heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>258</td>
@@ -2663,7 +2663,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>128-192</td>
           <td>Voice</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>259</td>
@@ -2673,7 +2673,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Russian rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>260</td>
@@ -2683,7 +2683,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Russian rock<br />Punk rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>261</td>
@@ -2693,7 +2693,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Russian rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>262</td>
@@ -2707,7 +2707,7 @@ function InfoMusic() {
           <td>Russian rock<br />Russian rock<br />Russian rock<br />Russian rock<br />
               Russian rock<br />Russian rock<br />Russian rock<br />Russian rock<br />
               Russian rock<br />Russian rock<br />Russian rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>263</td>
@@ -2717,7 +2717,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Gothic rock<br />New wave/russian rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>264</td>
@@ -2727,7 +2727,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Russian rock<br />Russian rock<br />Punk/psychodelic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>265</td>
@@ -2737,7 +2737,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Russian rock<br />Russian rock<br />New wave</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>266</td>
@@ -2750,7 +2750,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Trash metal<br />Heavy metal<br />Thrash metal<br />Russian rock<br />
             Heavy metal<br />Thrash metal<br />Heavy metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>267</td>
@@ -2769,7 +2769,7 @@ function InfoMusic() {
             Russian rock<br />Russian rock, folk<br />Heavy metal<br />
             Russian rock<br />Heavy metal<br />Gothic rock<br />
             Russian rock<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>268</td>
@@ -2779,7 +2779,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Punk/psychodelic rock<br />Psychodelic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>269</td>
@@ -2789,7 +2789,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Punk/psychodelic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>270</td>
@@ -2799,7 +2799,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Punk/psychodelic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>271</td>
@@ -2811,7 +2811,7 @@ function InfoMusic() {
           <td>128-320</td>
           <td>Punk/psychodelic rock<br />Psychodelic rock<br />
             Punk/psychodelic rock<br />Thrash metal<br />Punk rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>272</td>
@@ -2828,7 +2828,7 @@ function InfoMusic() {
             Russian rock<br />Folk<br />Russian rock<br />Russian rock, folk<br />
             Russian rock<br />Thrash/heavy metal<br />Heavy metal<br />
             Punk rock<br />Thrash/heavy metal<br />Heavy metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>>273</td>
@@ -2839,7 +2839,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Doom metal<br />Doom metal<br />Hard rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>274</td>
@@ -2850,7 +2850,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Garage rock<br />Psychodelic rock<br />Rhythm and blues<br />
             Rhythm and blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>275</td>
@@ -2860,7 +2860,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Post punk<br />Punk/garage rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>276</td>
@@ -2870,7 +2870,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Garage rock<br />Art punk<br />Punk/garage rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>277</td>
@@ -2881,7 +2881,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Progressive rock<br />Progressive rock<br />
             Rhythm and blues<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>278</td>
@@ -2891,7 +2891,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Psychodelic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>279</td>
@@ -2901,7 +2901,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Rhythm and blues<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>280</td>
@@ -2911,7 +2911,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>281</td>
@@ -2921,7 +2921,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>282</td>
@@ -2935,7 +2935,7 @@ function InfoMusic() {
           <td>Thrash metal<br />Black death metal<br />Melodic death metal<br />
               Black metal<br />Thrash metal<br />Melodic death metal<br />Thrash metal<br />
               Sympho metal<br />Ambient</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>283</td>
@@ -2945,7 +2945,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>284</td>
@@ -2955,7 +2955,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>285</td>
@@ -2965,7 +2965,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>286</td>
@@ -2975,7 +2975,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Blues</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>287</td>
@@ -2985,7 +2985,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>288</td>
@@ -2995,7 +2995,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>289</td>
@@ -3005,7 +3005,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Rock<br />Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>290</td>
@@ -3015,7 +3015,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Progressive rock<br />Progressive rock<br />Progressive metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>291</td>
@@ -3025,7 +3025,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>292</td>
@@ -3035,7 +3035,7 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Hard rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>293</td>
@@ -3048,7 +3048,7 @@ function InfoMusic() {
           <td>320</td>
           <td>Thrash metal<br />Power metal<br />Thrash metal<br />Thrash metal<br />
             Industrial metal<br />Thrash metal<br />Hard rock<br />Groove metal</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
           <td>294</td>
@@ -3058,17 +3058,17 @@ function InfoMusic() {
           <td>MP 3</td>
           <td>320</td>
           <td>Progressive rock<br />Psychodelic rock</td>
-          <td class="right"></td>
+          <td className="right"></td>
         </tr>
         <tr>
-          <td class="bottom">295</td>
-          <td class="bottom"></td>
-          <td class="bottom"></td>
-          <td class="bottom"></td>
-          <td class="bottom"></td>
-          <td class="bottom"></td>
-          <td class="bottom"></td>
-          <td class="right bottom"></td>
+          <td className="bottom">295</td>
+          <td className="bottom"></td>
+          <td className="bottom"></td>
+          <td className="bottom"></td>
+          <td className="bottom"></td>
+          <td className="bottom"></td>
+          <td className="bottom"></td>
+          <td className="right bottom"></td>
         </tr>
       </table>
     </>

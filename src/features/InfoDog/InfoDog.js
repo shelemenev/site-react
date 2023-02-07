@@ -4,6 +4,7 @@ function InfoDog() {
 
   return (
     <>
+      <Picture />
       <h2>Собака</h2>
       <img className="background" src="images/background1.jpeg" />
     	<div className="content hidden_mobile">

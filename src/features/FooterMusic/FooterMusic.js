@@ -13,7 +13,7 @@ function FooterMusic() {
 		      <div className="category big color" data-text="Галерея"><a className='color' href='gallery.html'>Галерея</a></div>
 		      <div className="category big color" data-text="Видео"><a className='color' href='video.html'>Видео</a></div>
 		      <div className="category big color" data-text="Резюме"><a className='color' href='resume.html'>Резюме</a></div>
-		      <div className="category goup big"><img class='up' src="images/pic11.svg" /></div>
+		      <div className="category goup big"><img className='up' src="images/pic11.svg" /></div>
 		    </div>
 		  </div>
     </>

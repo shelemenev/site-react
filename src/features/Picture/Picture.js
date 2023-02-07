@@ -1,8 +1,6 @@
 function Picture() {
   let images = []
   let index = 0
-  let currentHeight = 0
-  let scrollInterval
 
   function init() {
     images = document.querySelectorAll('.photo img')
@@ -12,33 +10,13 @@ function Picture() {
       index = j
       showPopup()
     }
-
-    if (document.querySelector('.goup')) {
-      const goups = document.querySelectorAll('.goup')
-
-      for (let goup of goups) {
-        goup.addEventListener('click', function() {
-          scrollInterval = setInterval(scrollToEndPage, 40)
-        })
-      }
-
-      window.addEventListener('scroll', function() {
-        currentHeight = document.body.scrollTop
-      })
-    }
   }
 
-  function scrollToEndPage() {
-    const step = currentHeight / 10
-
-    if (currentHeight > 0) {
-      currentHeight -= step
-      window.scrollTo(currentHeight + step, currentHeight)
-    } else {
-      clearInterval(scrollInterval)
-      currentHeight = 0
-    }
+  function loop() {
+    document.addEventListener('mousemove', init)
   }
+
+  loop() 
 
   function closePopup() {
     window.removeEventListener('keyup', logKey)
